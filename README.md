@@ -1,9 +1,9 @@
 wp-car-advplg
 =============
 
-Digital Designs Network Ltd.
+Digital Designs Network Ltd. Advanced Vehicle Rental System WordPress Plugin
 
-Advanced Vehicle Rental System WordPress Plugin
+This development program aims to incorporate a "Vehicle Allocation Chart" into an existing car rental system plugin to be used with WordPress.
 
-This development program aims to incorporate a Vehicle Allocation Chart into an existing car rental system plugin to be used with WordPress.
+The VAC (vehicle allocation chart) has a number of functions and synchronizes with the booking list of the plugin.
 
