@@ -15,6 +15,11 @@ Hovering over a booking will give you "at a glance" functionality with all the i
 
 At the top of the chart there will be scroll and zoom buttons to allow you to choose what and how many days to show on the screen.
 
+Underneath the chart there is an area/button for unallocated bookings and another for requested bookings which come via front end of website customer booking system.
+
+
+
+
 
 
 
