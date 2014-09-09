@@ -13,5 +13,8 @@ On the bookings section vertical bars will represent days of the week and the ho
 
 Hovering over a booking will give you "at a glance" functionality with all the information displayed thereof.
 
+At the top of the chart there will be scroll and zoom buttons to allow you to choose what and how many days to show on the screen.
+
+
 
 
