@@ -9,5 +9,9 @@ The VAC (vehicle allocation chart) has a number of functions and synchronizes wi
 
 Screen will be split in two areas, on the left there will be vehicle details whilst on the right there will be details of bookings.
 
-On the bookings section vertical bars will represent days of the week and the horizontal bars will represent bookings with separate colours to represent the status of the booking.
+On the bookings section vertical bars will represent days of the week and the horizontal bars will represent bookings with separate colours to represent the status of the booking (a key at the bottom left will clarify statuses and colours).
+
+Hovering over a booking will give you "at a glance" functionality with all the information displayed thereof.
+
+
 
