@@ -17,6 +17,7 @@ At the top of the chart there will be scroll and zoom buttons to allow you to ch
 
 Underneath the chart there is an area/button for unallocated bookings and another for requested bookings which come via front end of website customer booking system.
 
+Staff need to be able to edit bookings from chart
 
 
 
